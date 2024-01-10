@@ -481,8 +481,8 @@ function OrionLib:MakeWindow(WindowConfig)
 	WindowConfig.IntroText = WindowConfig.IntroText or "MacSploit Hub Powered by Orion Library"
 	WindowConfig.CloseCallback = WindowConfig.CloseCallback or function() end
 	WindowConfig.ShowIcon = WindowConfig.ShowIcon or false
-	WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://15932232683"
-	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://15932232683"
+	WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://15932257284"
+	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://15932257284"
 	OrionLib.Folder = WindowConfig.ConfigFolder
 	OrionLib.SaveCfg = WindowConfig.SaveConfig
 
